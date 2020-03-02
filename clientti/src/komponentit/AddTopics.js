@@ -52,7 +52,7 @@ class AddTopics extends Component {
                 <h2>Add a new topic</h2>
 
                 <b>Title</b> <br></br><input value={this.state.title} onChange={this.titleMuuttui}/><br/><br></br>
-                
+
                 <b>Descripton</b> <br></br><textarea value={this.state.description} onChange={this.descriptionMuuttui}/><br/><br></br>
                 
                 <b>Hours to master</b> <br></br><input style={timeStyle} value={this.state.timetomaster} 
