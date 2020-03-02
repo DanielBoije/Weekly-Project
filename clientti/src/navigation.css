@@ -1,0 +1,12 @@
+.navi {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.navi:hover {
+    background-color: #ddd;
+    color: black;
+  }
